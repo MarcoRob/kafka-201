@@ -161,6 +161,7 @@ La practica y ejercicios las podemos encontrar en el directorio de practica
 * https://kafka.apache.org/
 * https://developer.confluent.io/learn-kafka/
 * https://www.pluralsight.com/courses/apache-kafka-getting-started
+* [Algoritmo Paxos y Raft](https://medium.com/@juan.baranowa/algor%C3%ADtmos-de-consenso-raft-y-paxos-b252e51e911a)
 * [Aprendiendo Apache Kafka Pt 1](https://www.enmilocalfunciona.io/aprendiendo-apache-kafka-parte-1/)
 * [Aprendiendo Apache Kafka Pt 2](https://www.enmilocalfunciona.io/aprendiendo-apache-kafka-parte-2-2/)
 * [Aprendiendo Apache Kafka Pt 4 - Instalación](https://www.enmilocalfunciona.io/aprendiendo-apache-kafka-parte-4/)
